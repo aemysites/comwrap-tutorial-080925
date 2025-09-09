@@ -1,0 +1,605 @@
+{
+  "originUrl": "https://www.conad.it",
+  "aborted": false,
+  "lastCrawled": "https://www.conad.it/hey-conad",
+  "urls": [
+    {
+      "url": "https://www.conad.it/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "0e616f4f99cc744508da0bcdd511068991ea1d94"
+    },
+    {
+      "url": "https://www.conad.it/carte-e-premi",
+      "source": "CRAWL",
+      "targetPath": "/carte-e-premi",
+      "id": "12eb6956bbd14beacbd203758b4427fa6166c35e"
+    },
+    {
+      "url": "https://www.conad.it/carte-e-premi/carte-prepagate",
+      "source": "CRAWL",
+      "targetPath": "/carte-e-premi/carte-prepagate",
+      "id": "0173398030da7274c8b136bc3db7aae1fde92e8d"
+    },
+    {
+      "url": "https://www.conad.it/carte-e-premi/collezioni-e-concorsi",
+      "source": "CRAWL",
+      "targetPath": "/carte-e-premi/collezioni-e-concorsi",
+      "id": "d237fd1fc8af5f548669a904f1cc412372a142b7"
+    },
+    {
+      "url": "https://www.conad.it/carte-e-premi/mi-premio",
+      "source": "CRAWL",
+      "targetPath": "/carte-e-premi/mi-premio",
+      "id": "fb7b6c5097b09bb52485904e4c0601a6e3a911f7"
+    },
+    {
+      "url": "https://www.conad.it/consigli",
+      "source": "CRAWL",
+      "targetPath": "/consigli",
+      "id": "1df7cb0138675b94f2f8f108fea9b70e6e46b321"
+    },
+    {
+      "url": "https://www.conad.it/consigli/alimentazione",
+      "source": "CRAWL",
+      "targetPath": "/consigli/alimentazione",
+      "id": "b0a06a03ffa6549abe941f4d2dffff984081c97e"
+    },
+    {
+      "url": "https://www.conad.it/consigli/amici-animali",
+      "source": "CRAWL",
+      "targetPath": "/consigli/amici-animali",
+      "id": "0eca3466d4cd5611028989475917cc8dd60bcef1"
+    },
+    {
+      "url": "https://www.conad.it/consigli/conad",
+      "source": "CRAWL",
+      "targetPath": "/consigli/conad",
+      "id": "de8a143b933a118c55e151e0603098efde7bb1f3"
+    },
+    {
+      "url": "https://www.conad.it/consigli/cucina",
+      "source": "CRAWL",
+      "targetPath": "/consigli/cucina",
+      "id": "5c4bcbab7effd0bde8c7b064af1b07d9ccdbe49f"
+    },
+    {
+      "url": "https://www.conad.it/consigli/cucina/innovativa-internazionale/quinoa",
+      "source": "CRAWL",
+      "targetPath": "/consigli/cucina/innovativa-internazionale/quinoa",
+      "id": "3afe0f6df318b35492091748e232be3da8bfcb14"
+    },
+    {
+      "url": "https://www.conad.it/consigli/essere-mamma",
+      "source": "CRAWL",
+      "targetPath": "/consigli/essere-mamma",
+      "id": "869616e0eb9367cfddd84b54f0cf5dc6ea3d2c0b"
+    },
+    {
+      "url": "https://www.conad.it/consigli/green",
+      "source": "CRAWL",
+      "targetPath": "/consigli/green",
+      "id": "e325255ea4da6a581f0a21c96ed3797162c8709f"
+    },
+    {
+      "url": "https://www.conad.it/consigli/green/casa/casa-sostenibile-interventi-economici",
+      "source": "CRAWL",
+      "targetPath": "/consigli/green/casa/casa-sostenibile-interventi-economici",
+      "id": "28d3b09c6b1ac3e0f9b10fbe73105263b4d5050e"
+    },
+    {
+      "url": "https://www.conad.it/consigli/green/casa/pulizie-ecologiche-casa",
+      "source": "CRAWL",
+      "targetPath": "/consigli/green/casa/pulizie-ecologiche-casa",
+      "id": "e561d6f49b3bdb1c641f7892d520ff56ede3bca5"
+    },
+    {
+      "url": "https://www.conad.it/consigli/mondo-conad",
+      "source": "CRAWL",
+      "targetPath": "/consigli/mondo-conad",
+      "id": "0606bd4c8715ff610a7e0434d9e870a2e80bd109"
+    },
+    {
+      "url": "https://www.conad.it/consigli/pulizie-casa",
+      "source": "CRAWL",
+      "targetPath": "/consigli/pulizie-casa",
+      "id": "6d33c3b323f4f74d13ab9de77eb71c65b559e087"
+    },
+    {
+      "url": "https://www.conad.it/consigli/salute-e-benessere",
+      "source": "CRAWL",
+      "targetPath": "/consigli/salute-e-benessere",
+      "id": "8ca37fb0f15506e867c95748883034e8203bb1ce"
+    },
+    {
+      "url": "https://www.conad.it/consigli/verso-natura",
+      "source": "CRAWL",
+      "targetPath": "/consigli/verso-natura",
+      "id": "532e9014c4f43795b45bab7b79c66a09f5b29309"
+    },
+    {
+      "url": "https://www.conad.it/cookie-policy",
+      "source": "CRAWL",
+      "targetPath": "/cookie-policy",
+      "id": "a210c26c946ad4c354d1a2bbe7942f8b11f9bba0"
+    },
+    {
+      "url": "https://www.conad.it/dichiarazione-accessibilita",
+      "source": "CRAWL",
+      "targetPath": "/dichiarazione-accessibilita",
+      "id": "26fad691c298b43cbcf87fda24210c84d6698f49"
+    },
+    {
+      "url": "https://www.conad.it/diversity-inclusion-e-parita-di-genere",
+      "source": "CRAWL",
+      "targetPath": "/diversity-inclusion-e-parita-di-genere",
+      "id": "89ddc07821e5e2d860170d523fc661810da049c5"
+    },
+    {
+      "url": "https://www.conad.it/giro-d-italia",
+      "source": "CRAWL",
+      "targetPath": "/giro-d-italia",
+      "id": "54d1d49c272d0e081ab897055f1830b14e2bfe34"
+    },
+    {
+      "url": "https://www.conad.it/hey-conad",
+      "source": "CRAWL",
+      "targetPath": "/hey-conad",
+      "id": "7286f007c80918993ce193a9ad025104326e0077"
+    },
+    {
+      "url": "https://www.conad.it/hey-conad/assicurazioni",
+      "source": "CRAWL",
+      "targetPath": "/hey-conad/assicurazioni",
+      "id": "f24d4916d63256940140e0016ec8d3d045571392"
+    },
+    {
+      "url": "https://www.conad.it/hey-conad/gioca-e-vinci-gamification",
+      "source": "CRAWL",
+      "targetPath": "/hey-conad/gioca-e-vinci-gamification",
+      "id": "54fe0b3ab8ee1cb98c9c5fad16aaa2b669f8195d"
+    },
+    {
+      "url": "https://www.conad.it/informativa-privacy",
+      "source": "CRAWL",
+      "targetPath": "/informativa-privacy",
+      "id": "9680dfefd83bd6713a88ff2faa23d4e11a2047e3"
+    },
+    {
+      "url": "https://www.conad.it/news-e-approfondimenti",
+      "source": "CRAWL",
+      "targetPath": "/news-e-approfondimenti",
+      "id": "e532c0f7084a8c5cfff8e0e11905875598357b35"
+    },
+    {
+      "url": "https://www.conad.it/news-e-approfondimenti?tag=richiamo-prodotto",
+      "source": "CRAWL",
+      "targetPath": "/news-e-approfondimenti",
+      "id": "b5f775cdd546e4ff0efeb61d9f831c7c5824f403"
+    },
+    {
+      "url": "https://www.conad.it/news-e-approfondimenti/2025/4/petstore-colletta-solidale-e-promozione-adozioni",
+      "source": "CRAWL",
+      "targetPath": "/news-e-approfondimenti/2025/4/petstore-colletta-solidale-e-promozione-adozioni",
+      "id": "059deddce02122d1643bffafc144a2b1799358d1"
+    },
+    {
+      "url": "https://www.conad.it/news-e-approfondimenti/2025/5/conad-ets",
+      "source": "CRAWL",
+      "targetPath": "/news-e-approfondimenti/2025/5/conad-ets",
+      "id": "530775f296dffd305c3635cbfd44c5ccf7ee3717"
+    },
+    {
+      "url": "https://www.conad.it/news-e-approfondimenti/2025/5/supermercati-aperti-festa-della-mamma",
+      "source": "CRAWL",
+      "targetPath": "/news-e-approfondimenti/2025/5/supermercati-aperti-festa-della-mamma",
+      "id": "1810bc1a576ef6c53da11b43a85be5d536098049"
+    },
+    {
+      "url": "https://www.conad.it/news-e-approfondimenti/2025/5/supermercati-aperti-festa-della-repubblica",
+      "source": "CRAWL",
+      "targetPath": "/news-e-approfondimenti/2025/5/supermercati-aperti-festa-della-repubblica",
+      "id": "b8e28edac59a50e620098dc92463c1bafbe57d5a"
+    },
+    {
+      "url": "https://www.conad.it/news-e-approfondimenti/2025/7/supermercati-conad-aperti-ferragosto-2025",
+      "source": "CRAWL",
+      "targetPath": "/news-e-approfondimenti/2025/7/supermercati-conad-aperti-ferragosto-2025",
+      "id": "37fac455111350b6779f235329b851bf0e55b317"
+    },
+    {
+      "url": "https://www.conad.it/news-e-approfondimenti/2025/8/Richiamo-prodotto-crostatina-con-albicocca-senza-glutine-200g-conad-alimentum",
+      "source": "CRAWL",
+      "targetPath": "/news-e-approfondimenti/2025/8/richiamo-prodotto-crostatina-con-albicocca-senza-glutine-200g-conad-alimentum",
+      "id": "5cb91030440ef7ff7f83f52c0cd97bb57df0c8ee"
+    },
+    {
+      "url": "https://www.conad.it/news-e-approfondimenti/2025/9/richiamo-prodotto-mortadella-bologna-igp-100g-conad",
+      "source": "CRAWL",
+      "targetPath": "/news-e-approfondimenti/2025/9/richiamo-prodotto-mortadella-bologna-igp-100g-conad",
+      "id": "16d1ff9f221cfa251806e6f641215f6688fbc33b"
+    },
+    {
+      "url": "https://www.conad.it/news-e-approfondimenti/2025/9/ritiro-richiamo-vongole-surgelate-250g-conad",
+      "source": "CRAWL",
+      "targetPath": "/news-e-approfondimenti/2025/9/ritiro-richiamo-vongole-surgelate-250g-conad",
+      "id": "3293da74aaea60ba30dd370db0ffd178f8471157"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi",
+      "id": "dd802605091510a740a43a32a9dd3da3ddcba445"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/11-paralleli",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/11-paralleli",
+      "id": "97538fe4416092f6e9613d75a75dfe7486738f70"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/alimentum",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/alimentum",
+      "id": "0eccb4e3a5f08a71e27d2eda550bf5722e1f486d"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/baby",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/baby",
+      "id": "f70622394a2a6df5930c5b704270e2e9f7b0bbf9"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/bassi-e-fissi",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/bassi-e-fissi",
+      "id": "123c1f6b9edc0a68fbd1b0b49905332054f15dba"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/conad",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/conad",
+      "id": "3293aa95a7154705d1ef50a9d0b915494b817261"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/essentiae",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/essentiae",
+      "id": "7c2910d961faeeeaf43a6e10306f091f564a611f"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/i-nostri-valori",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/i-nostri-valori",
+      "id": "8c9691ddc1e290ba81362d31748ab7a020caa41a"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/i-nostri-valori/artisti-della-qualita",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/i-nostri-valori/artisti-della-qualita",
+      "id": "be74378609df17852b1762b2cd6ef889d91cbf4b"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/i-nostri-valori/il-buono-del-paese",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/i-nostri-valori/il-buono-del-paese",
+      "id": "e8fad87bf71c686265a37a6f80597cb973514522"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/i-nostri-valori/scelte-di-benessere",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/i-nostri-valori/scelte-di-benessere",
+      "id": "e80cc316a5261c294e86dbab974d0872dc16494b"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/parafarmacia",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/parafarmacia",
+      "id": "99d6efc92a806ba95220c660656039b06ef62d57"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/petfriends",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/petfriends",
+      "id": "44bd7e5bb9cce0015003bffa173c599c0acc1ede"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/piacersi",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/piacersi",
+      "id": "504bd5359adf06a7403678ed793ed744aa04c676"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/sapori-e-dintorni",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/sapori-e-dintorni",
+      "id": "505ae010eac4b409e45ca6e046173d4a9c262ec7"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/sapori-e-idee",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/sapori-e-idee",
+      "id": "bc80412d0b055000866759724e54a12ac47e856d"
+    },
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/verso-natura",
+      "source": "CRAWL",
+      "targetPath": "/prodotti-e-marchi/verso-natura",
+      "id": "153dde887279f0bb3a402e89acc783b3ba04524d"
+    },
+    {
+      "url": "https://www.conad.it/ricerca-negozi",
+      "source": "CRAWL",
+      "targetPath": "/ricerca-negozi",
+      "id": "43ae3d5286197bbf3e493e7dbc613dbdaa838af8"
+    },
+    {
+      "url": "https://www.conad.it/ricerca-negozi/carburante",
+      "source": "CRAWL",
+      "targetPath": "/ricerca-negozi/carburante",
+      "id": "99244974f4c35463e845d6f218da656709b36558"
+    },
+    {
+      "url": "https://www.conad.it/ricerca-negozi/ottico",
+      "source": "CRAWL",
+      "targetPath": "/ricerca-negozi/ottico",
+      "id": "d956202d0cf23540a839cef76dc779b3c3685c29"
+    },
+    {
+      "url": "https://www.conad.it/ricerca-negozi/parafarmacia",
+      "source": "CRAWL",
+      "targetPath": "/ricerca-negozi/parafarmacia",
+      "id": "097abecc6ba3ce9fa1b3f5a75842f4ca25d01e3d"
+    },
+    {
+      "url": "https://www.conad.it/ricerca-negozi/petstore",
+      "source": "CRAWL",
+      "targetPath": "/ricerca-negozi/petstore",
+      "id": "78cdd8eefca86dd50571be57f119c6a817728c24"
+    },
+    {
+      "url": "https://www.conad.it/ricette",
+      "source": "CRAWL",
+      "targetPath": "/ricette",
+      "id": "f64b4773808280bba15913492ea159644f2dc1c4"
+    },
+    {
+      "url": "https://www.conad.it/ricette/alimentum",
+      "source": "CRAWL",
+      "targetPath": "/ricette/alimentum",
+      "id": "a934668c521c1d1834dfdd4a34d5000a36ea3874"
+    },
+    {
+      "url": "https://www.conad.it/ricette/antipasti",
+      "source": "CRAWL",
+      "targetPath": "/ricette/antipasti",
+      "id": "9091a8eb329d9dee2ce4e7a210a2eb1bba703df8"
+    },
+    {
+      "url": "https://www.conad.it/ricette/antipasti/caldi/tortine-salate-stracchino-spinaci-speck",
+      "source": "CRAWL",
+      "targetPath": "/ricette/antipasti/caldi/tortine-salate-stracchino-spinaci-speck",
+      "id": "2845d18e70371ef9f5f780dc0e1ae27158635df5"
+    },
+    {
+      "url": "https://www.conad.it/ricette/antipasti/vegetariani/flan-di-cavolo-viola",
+      "source": "CRAWL",
+      "targetPath": "/ricette/antipasti/vegetariani/flan-di-cavolo-viola",
+      "id": "f70560ab18f2b087870d423c3a94703fa94a1d93"
+    },
+    {
+      "url": "https://www.conad.it/ricette/aperitivi-stuzzichini",
+      "source": "CRAWL",
+      "targetPath": "/ricette/aperitivi-stuzzichini",
+      "id": "a61e897922e66b38e1917bad3a267cd888839c08"
+    },
+    {
+      "url": "https://www.conad.it/ricette/bimby",
+      "source": "CRAWL",
+      "targetPath": "/ricette/bimby",
+      "id": "14865882d1f42848fe12279a2942eb11563bb60b"
+    },
+    {
+      "url": "https://www.conad.it/ricette/conad",
+      "source": "CRAWL",
+      "targetPath": "/ricette/conad",
+      "id": "4ebac1716d6c931013c574f5c3be7fd3b8316df5"
+    },
+    {
+      "url": "https://www.conad.it/ricette/contorni",
+      "source": "CRAWL",
+      "targetPath": "/ricette/contorni",
+      "id": "c7eebde797bf4227558eaf8ec4b35aae868b52b2"
+    },
+    {
+      "url": "https://www.conad.it/ricette/dolci-e-dessert",
+      "source": "CRAWL",
+      "targetPath": "/ricette/dolci-e-dessert",
+      "id": "9871f57daaccf4ee668f91ae7fcdb2faef5f0509"
+    },
+    {
+      "url": "https://www.conad.it/ricette/piacersi",
+      "source": "CRAWL",
+      "targetPath": "/ricette/piacersi",
+      "id": "1cfc6af3b0e350fe5308972d0603f755ec5fd982"
+    },
+    {
+      "url": "https://www.conad.it/ricette/piatti-unici",
+      "source": "CRAWL",
+      "targetPath": "/ricette/piatti-unici",
+      "id": "c299c7e2cdf75b844c8e8b33e8c952c3860eb03f"
+    },
+    {
+      "url": "https://www.conad.it/ricette/piatti-unici/bowl-con-quinoa-cubetti-di-tacchino-e-crema-di-fave",
+      "source": "CRAWL",
+      "targetPath": "/ricette/piatti-unici/bowl-con-quinoa-cubetti-di-tacchino-e-crema-di-fave",
+      "id": "822ffe4a3019fdb1db9ae13b6ca1aff631b883b9"
+    },
+    {
+      "url": "https://www.conad.it/ricette/piatti-unici/sformato-di-zucchine-con-mozzarella-prosciutto",
+      "source": "CRAWL",
+      "targetPath": "/ricette/piatti-unici/sformato-di-zucchine-con-mozzarella-prosciutto",
+      "id": "56fa96ec29ba105ddd4665a7c3ad7012f50c5f59"
+    },
+    {
+      "url": "https://www.conad.it/ricette/piatti-unici/Torta-salata-con-ratatouille-di-verdure",
+      "source": "CRAWL",
+      "targetPath": "/ricette/piatti-unici/torta-salata-con-ratatouille-di-verdure",
+      "id": "fb57d733fad2741ac7d8e4b46f451e5ca19d8cdb"
+    },
+    {
+      "url": "https://www.conad.it/ricette/primi-piatti",
+      "source": "CRAWL",
+      "targetPath": "/ricette/primi-piatti",
+      "id": "08e8831c3cd89d1f9e14030b9ea1e7a521dfdb64"
+    },
+    {
+      "url": "https://www.conad.it/ricette/primi-piatti/pesce/caserecce-al-pesce-spada",
+      "source": "CRAWL",
+      "targetPath": "/ricette/primi-piatti/pesce/caserecce-al-pesce-spada",
+      "id": "907bbbd356aaa331a5ef25c03856279303e6641a"
+    },
+    {
+      "url": "https://www.conad.it/ricette/primi-piatti/sfiziosi/gnocchi-con-fonduta-caciocavallo-guanciale",
+      "source": "CRAWL",
+      "targetPath": "/ricette/primi-piatti/sfiziosi/gnocchi-con-fonduta-caciocavallo-guanciale",
+      "id": "6f06deb6d1b2909caad702db28604ead6db36417"
+    },
+    {
+      "url": "https://www.conad.it/ricette/sapori-e-dintorni",
+      "source": "CRAWL",
+      "targetPath": "/ricette/sapori-e-dintorni",
+      "id": "8465702c585d8fd4626403dd225d090664eff344"
+    },
+    {
+      "url": "https://www.conad.it/ricette/secondi-piatti",
+      "source": "CRAWL",
+      "targetPath": "/ricette/secondi-piatti",
+      "id": "b8e3a3d78957480a74e659a34d3985bec6436a35"
+    },
+    {
+      "url": "https://www.conad.it/ricette/secondi-piatti/light/pollo-in-crosta-di-cereali-salsa-yogurt",
+      "source": "CRAWL",
+      "targetPath": "/ricette/secondi-piatti/light/pollo-in-crosta-di-cereali-salsa-yogurt",
+      "id": "21983c777be59670b8d4eb665035f6c9b1efc03e"
+    },
+    {
+      "url": "https://www.conad.it/ricette/secondi-piatti/vegetariani/frittata-con-peperoni",
+      "source": "CRAWL",
+      "targetPath": "/ricette/secondi-piatti/vegetariani/frittata-con-peperoni",
+      "id": "dbd7e03ddd8ce0657a6419e1e7c3d68c49fcedd4"
+    },
+    {
+      "url": "https://www.conad.it/ricette/verso-natura",
+      "source": "CRAWL",
+      "targetPath": "/ricette/verso-natura",
+      "id": "04f8cbdab6fef0ab99c283f49cfe71318a878d4b"
+    },
+    {
+      "url": "https://www.conad.it/servizi/convenzione-centri-medici-bianalisi",
+      "source": "CRAWL",
+      "targetPath": "/servizi/convenzione-centri-medici-bianalisi",
+      "id": "33a8c58241f8ccd5764c66a3a5e5490e7fe22c40"
+    },
+    {
+      "url": "https://www.conad.it/servizi/prenotazione-libri-di-testo",
+      "source": "CRAWL",
+      "targetPath": "/servizi/prenotazione-libri-di-testo",
+      "id": "088498bdbf39bf73925ca0e6a46c44230b20a8f5"
+    },
+    {
+      "url": "https://www.conad.it/servizi/riciclo-bottiglie-in-pet",
+      "source": "CRAWL",
+      "targetPath": "/servizi/riciclo-bottiglie-in-pet",
+      "id": "8fba65f68f25d7bed51aaf6b7f1061f3cfc88a65"
+    },
+    {
+      "url": "https://www.conad.it/servizio-clienti-e-faq",
+      "source": "CRAWL",
+      "targetPath": "/servizio-clienti-e-faq",
+      "id": "fcda9dd2ce965ebf0cc006ac22c84bed5713b962"
+    },
+    {
+      "url": "https://www.conad.it/servizio-clienti-e-faq/assicurazioni",
+      "source": "CRAWL",
+      "targetPath": "/servizio-clienti-e-faq/assicurazioni",
+      "id": "4a22aa0d9b09d8c8866e7330f621931f3448b612"
+    },
+    {
+      "url": "https://www.conad.it/servizio-clienti-e-faq/carte-conad",
+      "source": "CRAWL",
+      "targetPath": "/servizio-clienti-e-faq/carte-conad",
+      "id": "861e949d8963bbfb98db48716d4a2f384af67bcc"
+    },
+    {
+      "url": "https://www.conad.it/servizio-clienti-e-faq/negozi",
+      "source": "CRAWL",
+      "targetPath": "/servizio-clienti-e-faq/negozi",
+      "id": "73c99cc22ab207ceb3e87fc2c2a5f4190b9acf69"
+    },
+    {
+      "url": "https://www.conad.it/servizio-clienti-e-faq/premi-concorsi",
+      "source": "CRAWL",
+      "targetPath": "/servizio-clienti-e-faq/premi-concorsi",
+      "id": "6ad41c9efad625acab87a67af25caced5f6ef1e5"
+    },
+    {
+      "url": "https://www.conad.it/servizio-clienti-e-faq/prodotti-a-marchio",
+      "source": "CRAWL",
+      "targetPath": "/servizio-clienti-e-faq/prodotti-a-marchio",
+      "id": "f6aaa20a90e641a6bff2618e908513d58fe19fab"
+    },
+    {
+      "url": "https://www.conad.it/servizio-clienti-e-faq/prodotti-altri-marchi",
+      "source": "CRAWL",
+      "targetPath": "/servizio-clienti-e-faq/prodotti-altri-marchi",
+      "id": "02de2912753f5f00306590380dce0791698a7893"
+    },
+    {
+      "url": "https://www.conad.it/servizio-clienti-e-faq/scuola-libri",
+      "source": "CRAWL",
+      "targetPath": "/servizio-clienti-e-faq/scuola-libri",
+      "id": "933ca5820efbe7c74efcdb0ceb33b40607dc1974"
+    },
+    {
+      "url": "https://www.conad.it/servizio-clienti-e-faq/segnalazione-app-sito",
+      "source": "CRAWL",
+      "targetPath": "/servizio-clienti-e-faq/segnalazione-app-sito",
+      "id": "acef7b2f47c38cedc7f3ffd170623976f4584239"
+    },
+    {
+      "url": "https://www.conad.it/servizio-clienti-e-faq/segnalazione-truffa",
+      "source": "CRAWL",
+      "targetPath": "/servizio-clienti-e-faq/segnalazione-truffa",
+      "id": "8ecba5459e9d33a47350cea1441549077900d64f"
+    },
+    {
+      "url": "https://www.conad.it/sostenibilita",
+      "source": "CRAWL",
+      "targetPath": "/sostenibilita",
+      "id": "355d4089fc41d7f641f4fc4ea10d361f08a89346"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.conad.it/prodotti-e-marchi/i-nostri-valori/saporie",
+      "status": "301 Moved Permanently Redirect: https://www.saporie.com/"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":1}",
+  "error": null
+}
