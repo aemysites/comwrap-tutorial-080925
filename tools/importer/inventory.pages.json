@@ -1,0 +1,178 @@
+{
+  "templates": [
+    {
+      "name": "Corporate Report Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/fondazione-conad-ets",
+          "uuid": "74ce54ec1052813c61e1f348a46ef570e4be398a"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo",
+          "uuid": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+          "uuid": "ac6ac2b86c826758abf4009aec47cbfd37a456cd"
+        },
+        {
+          "url": "https://chisiamo.conad.it/lavora-con-noi",
+          "uuid": "72e8b60340a05ea657eabc68f5567266694a06b2"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "uuid": "a54a26cc8dc38e425d17195c3e630170435a5c3f"
+        },
+        {
+          "url": "https://chisiamo.conad.it/contatti",
+          "uuid": "bd6244240777fb2f928c199201e61c5fb4dd1ef9"
+        },
+        {
+          "url": "https://chisiamo.conad.it/60-anni-insieme",
+          "uuid": "868ad3703dbabbd971c2a7f794851a98c4b8e727"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti",
+          "uuid": "3fc8e426f9b5a3cab92f0f1fd9efbf3333be6ecb"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative",
+          "uuid": "1812bf53caaa4fad34e1009dcabd82655a78c6bf"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/annual-report",
+          "uuid": "c28ade17361f60e88fd2aab6ac11dc139d0948a7"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cookies",
+          "uuid": "08118ef0e3045052a28255cb4852691576659ce8"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/codice-etico",
+          "uuid": "9ab6fe88cbf45a982a82ec7652f38ac43ffe0c7f"
+        },
+        {
+          "url": "https://chisiamo.conad.it/press-area",
+          "uuid": "d57517d4aa6f9db5cf7485dc1db5d8c72ae7b615"
+        }
+      ]
+    },
+    {
+      "name": "News Portal Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+          "uuid": "9aaa74960627624ea3848885ed6df5b3f0130227"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+          "uuid": "4fa1db841ee6d28f99b0133a50392b0ae24f556a"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing Page'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/i-soci",
+          "uuid": "c53188b1f8d304ec8e8a05e7cd038105092f3e66"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "uuid": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b"
+        }
+      ]
+    },
+    {
+      "name": "'Content Hub Page'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+          "uuid": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07"
+        }
+      ]
+    },
+    {
+      "name": "'Team Member Profile Page'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/presidente",
+          "uuid": "324c1c890019e34ab82d859f51f45ad0eaead40f"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/direttore-generale-operativo",
+          "uuid": "bbe38e61ea4a170dfb3a1bd19e3a2b4f3e81e2fb"
+        }
+      ]
+    },
+    {
+      "name": "'Blog Homepage'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "uuid": "59f89a3f2500c368c671066de1e8762f074d6cbe"
+        }
+      ]
+    },
+    {
+      "name": "News Article Page",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/conad-nord-ovest--solidita--crescita-e-visione-per-il-futuro",
+          "uuid": "3ad66c6da3660d813a2b14806da3fd65f7ff1c1d"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/annunciati-10-finalisti-conad-jazz-contest-2025",
+          "uuid": "b2b1fc7094907bc1687c4078f5d7adcbc9a46079"
+        }
+      ]
+    },
+    {
+      "name": "'Nonprofit Organization Homepage'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/",
+          "uuid": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303"
+        }
+      ]
+    },
+    {
+      "name": "'Blog Listing'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "uuid": "2dcaa1a8a9335008889bb10143fca87f1d6875e1"
+        }
+      ]
+    },
+    {
+      "name": "'Blog Listing Page'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "uuid": "b13612a85f6bccfc4475a647088a4d2526790152"
+        }
+      ]
+    },
+    {
+      "name": "'Multi-purpose Content Layout'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "uuid": "6142d693ffe9f51321e118f8db076ded7c10c887"
+        }
+      ]
+    }
+  ]
+}
