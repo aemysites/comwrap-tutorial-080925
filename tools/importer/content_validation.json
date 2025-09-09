@@ -1,0 +1,3328 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cookies",
+          "urlHash": "08118ef0e3045052a28255cb4852691576659ce8",
+          "uuid": "08118ef0-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+          "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+          "uuid": "15a7de15-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative",
+          "urlHash": "1812bf53caaa4fad34e1009dcabd82655a78c6bf",
+          "uuid": "1812bf53-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/presidente",
+          "urlHash": "324c1c890019e34ab82d859f51f45ad0eaead40f",
+          "uuid": "324c1c89-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/conad-nord-ovest--solidita--crescita-e-visione-per-il-futuro",
+          "urlHash": "3ad66c6da3660d813a2b14806da3fd65f7ff1c1d",
+          "uuid": "3ad66c6d-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti",
+          "urlHash": "3fc8e426f9b5a3cab92f0f1fd9efbf3333be6ecb",
+          "uuid": "3fc8e426-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+          "urlHash": "4fa1db841ee6d28f99b0133a50392b0ae24f556a",
+          "uuid": "4fa1db84-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/lavora-con-noi",
+          "urlHash": "72e8b60340a05ea657eabc68f5567266694a06b2",
+          "uuid": "72e8b603-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/fondazione-conad-ets",
+          "urlHash": "74ce54ec1052813c61e1f348a46ef570e4be398a",
+          "uuid": "74ce54ec-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/60-anni-insieme",
+          "urlHash": "868ad3703dbabbd971c2a7f794851a98c4b8e727",
+          "uuid": "868ad370-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+          "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+          "uuid": "9aaa7496-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/codice-etico",
+          "urlHash": "9ab6fe88cbf45a982a82ec7652f38ac43ffe0c7f",
+          "uuid": "9ab6fe88-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+          "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+          "uuid": "ac6ac2b8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo",
+          "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+          "uuid": "b105fd3f-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/annunciati-10-finalisti-conad-jazz-contest-2025",
+          "urlHash": "b2b1fc7094907bc1687c4078f5d7adcbc9a46079",
+          "uuid": "b2b1fc70-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/direttore-generale-operativo",
+          "urlHash": "bbe38e61ea4a170dfb3a1bd19e3a2b4f3e81e2fb",
+          "uuid": "bbe38e61-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/contatti",
+          "urlHash": "bd6244240777fb2f928c199201e61c5fb4dd1ef9",
+          "uuid": "bd624424-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/annual-report",
+          "urlHash": "c28ade17361f60e88fd2aab6ac11dc139d0948a7",
+          "uuid": "c28ade17-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/i-soci",
+          "urlHash": "c53188b1f8d304ec8e8a05e7cd038105092f3e66",
+          "uuid": "c53188b1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/press-area",
+          "urlHash": "d57517d4aa6f9db5cf7485dc1db5d8c72ae7b615",
+          "uuid": "d57517d4-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "height": 907
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cookies",
+          "urlHash": "08118ef0e3045052a28255cb4852691576659ce8",
+          "uuid": "08118ef0-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+          "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+          "uuid": "15a7de15-09-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative",
+          "urlHash": "1812bf53caaa4fad34e1009dcabd82655a78c6bf",
+          "uuid": "1812bf53-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-15-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/presidente",
+          "urlHash": "324c1c890019e34ab82d859f51f45ad0eaead40f",
+          "uuid": "324c1c89-04-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/conad-nord-ovest--solidita--crescita-e-visione-per-il-futuro",
+          "urlHash": "3ad66c6da3660d813a2b14806da3fd65f7ff1c1d",
+          "uuid": "3ad66c6d-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti",
+          "urlHash": "3fc8e426f9b5a3cab92f0f1fd9efbf3333be6ecb",
+          "uuid": "3fc8e426-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+          "urlHash": "4fa1db841ee6d28f99b0133a50392b0ae24f556a",
+          "uuid": "4fa1db84-07-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-15-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-14-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-12-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/lavora-con-noi",
+          "urlHash": "72e8b60340a05ea657eabc68f5567266694a06b2",
+          "uuid": "72e8b603-04-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/fondazione-conad-ets",
+          "urlHash": "74ce54ec1052813c61e1f348a46ef570e4be398a",
+          "uuid": "74ce54ec-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/60-anni-insieme",
+          "urlHash": "868ad3703dbabbd971c2a7f794851a98c4b8e727",
+          "uuid": "868ad370-07-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+          "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+          "uuid": "9aaa7496-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/codice-etico",
+          "urlHash": "9ab6fe88cbf45a982a82ec7652f38ac43ffe0c7f",
+          "uuid": "9ab6fe88-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-17-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+          "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+          "uuid": "ac6ac2b8-11-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo",
+          "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+          "uuid": "b105fd3f-14-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-12-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/annunciati-10-finalisti-conad-jazz-contest-2025",
+          "urlHash": "b2b1fc7094907bc1687c4078f5d7adcbc9a46079",
+          "uuid": "b2b1fc70-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/direttore-generale-operativo",
+          "urlHash": "bbe38e61ea4a170dfb3a1bd19e3a2b4f3e81e2fb",
+          "uuid": "bbe38e61-04-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/contatti",
+          "urlHash": "bd6244240777fb2f928c199201e61c5fb4dd1ef9",
+          "uuid": "bd624424-02-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/annual-report",
+          "urlHash": "c28ade17361f60e88fd2aab6ac11dc139d0948a7",
+          "uuid": "c28ade17-05-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/i-soci",
+          "urlHash": "c53188b1f8d304ec8e8a05e7cd038105092f3e66",
+          "uuid": "c53188b1-04-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/press-area",
+          "urlHash": "d57517d4aa6f9db5cf7485dc1db5d8c72ae7b615",
+          "uuid": "d57517d4-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(229, 227, 219) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Cards",
+      "cluster": 1,
+      "source": "Cards",
+      "target": "Cards (cards1)",
+      "key": "cards1",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+          "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+          "uuid": "15a7de15-06-3899aebbddf22d13a9ef7c5133c8324ae48b95ef",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-10-f01796fec01d2eede5503590aaf2f39f26026cd2",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[9]/div[1]/div[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/codice-etico",
+          "urlHash": "9ab6fe88cbf45a982a82ec7652f38ac43ffe0c7f",
+          "uuid": "9ab6fe88-03-bbadbac3a2a19aa613d6c85b16229ffc4f9c6b11",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-15-01bbd1462669c31145b10bb10f7f80b3c11f2d71",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[15]/div[1]/div[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo",
+          "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+          "uuid": "b105fd3f-11-f01796fec01d2eede5503590aaf2f39f26026cd2",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[9]/div[1]/div[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__main__section_9__div__div",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Negozi e Prodotti Approfondisci Annual Report Approfondisci"
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+          "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+          "uuid": "15a7de15-03-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+          "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+          "uuid": "15a7de15-04-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+          "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+          "uuid": "15a7de15-05-4207a4d0463bfbe567a291be19584dd1220e50fc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-06-4207a4d0463bfbe567a291be19584dd1220e50fc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-07-3899aebbddf22d13a9ef7c5133c8324ae48b95ef",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-08-8ad5a7c46ba450d7f24f0ab31b014ddc7bfaeb46",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[8]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-09-806fa17d74ae36b38b8bbb8ac1b0a2248836c329",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[9]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-10-ab452c89a35f4969ffb221ec8b6ecca0b0d6d107",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[10]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-11-1b932a3d5854e88c1e31c00f1f32d413d91824c5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[11]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-02-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-11-1b932a3d5854e88c1e31c00f1f32d413d91824c5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[11]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-07-3899aebbddf22d13a9ef7c5133c8324ae48b95ef",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-09-806fa17d74ae36b38b8bbb8ac1b0a2248836c329",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[9]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-10-ab452c89a35f4969ffb221ec8b6ecca0b0d6d107",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[10]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-11-1b932a3d5854e88c1e31c00f1f32d413d91824c5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[11]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-02-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/lavora-con-noi",
+          "urlHash": "72e8b60340a05ea657eabc68f5567266694a06b2",
+          "uuid": "72e8b603-02-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/60-anni-insieme",
+          "urlHash": "868ad3703dbabbd971c2a7f794851a98c4b8e727",
+          "uuid": "868ad370-05-4207a4d0463bfbe567a291be19584dd1220e50fc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+          "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+          "uuid": "ac6ac2b8-07-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo",
+          "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+          "uuid": "b105fd3f-07-4207a4d0463bfbe567a291be19584dd1220e50fc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]",
+          "differences": [
+            {
+              "element_id": "html__body__div__main__section_6",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "60 anni insieme Noi di Conad abbiamo celebrato il 60\u00b0 anniversario affermando e consolidando la nostra leadership. Un importante traguardo raggiunto grazie alle nostre persone e le Comunit\u00e0. Siamo cresciuti giorno dopo giorno senza perdere la nostra identit\u00e0 costruendo con i nostri clienti, con le Comunit\u00e0 e i territori in cui siamo presenti una relazione forte e sana, che fa parte del nostro essere da sempre \u201cpersone oltre le cose\u201d. Scopri di pi\u00f9"
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo",
+          "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+          "uuid": "b105fd3f-08-3899aebbddf22d13a9ef7c5133c8324ae48b95ef",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]",
+          "differences": [
+            {
+              "element_id": "html__body__div__main__section_7",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Missione"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "60"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "e"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "anni"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "valori"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "insieme"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Il"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Noi"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Sistema"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "di"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " Conad"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": ", da"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "sempre, \u00e8"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "abbiamo"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "guidato"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "celebrato"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "da"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "il"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "una"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "60\u00b0 anniversario"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "visione"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "affermando"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "ambiziosa: essere"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "e"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "un\u2019organizzazione"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "consolidando"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "di"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "la"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "imprenditori"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "nostra"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "dettaglianti"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "leadership. Un"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "indipendenti"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "importante"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "che"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "traguardo raggiunto grazie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "soddisfa"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "alle nostre"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "al"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "persone"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "meglio"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "e"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " le "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "aspettative"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Comunit\u00e0. Siamo"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "dei"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cresciuti"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "clienti"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "giorno"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "e"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "dopo"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "che"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "giorno"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "ha"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "senza"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "un"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "perdere"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "primario"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "la"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "ruolo"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "nostra"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "economico"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "identit\u00e0 costruendo con"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "e"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "i nostri"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "sociale"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "clienti, con"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "nelle"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "le"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " Comunit\u00e0 "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "e i territori "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "in cui "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "opera. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "siamo presenti una relazione forte e sana, che fa parte del nostro essere da sempre \u201cpersone oltre le cose\u201d. "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Scopri di pi\u00f9"
+                }
+              ],
+              "dissimilarity_score": 0.76
+            }
+          ],
+          "similarity_score": 0.24
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo",
+          "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+          "uuid": "b105fd3f-09-8ad5a7c46ba450d7f24f0ab31b014ddc7bfaeb46",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[8]",
+          "differences": [
+            {
+              "element_id": "html__body__div__main__section_8",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Modello"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "60"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "organizzativo"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "anni"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "La"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "insieme"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "nostra"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Noi"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "peculiarit\u00e0"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "di"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "\u00e8"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Conad"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "che"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "abbiamo"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "in"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "celebrato"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Conad"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "il"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "i"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "60\u00b0 anniversario"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Soci"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "affermando"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "sono"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "e"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "imprenditori"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "consolidando"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "che"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "la"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "hanno"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "nostra"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "scelto"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "leadership. Un"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "di"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "importante"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "cooperare, cio\u00e8"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "traguardo"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "di"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "raggiunto"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "inserirsi"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "grazie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "in"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "alle"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "un"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "nostre"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "sistema"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "persone"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "corale"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "e"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "che"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "le Comunit\u00e0. Siamo"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "offre"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cresciuti"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "loro"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "giorno dopo giorno senza perdere"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " la "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "possibilit\u00e0"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "nostra"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "di"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "identit\u00e0"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "esprimersi"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "costruendo"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "individualmente"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "con"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "attraverso"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "i"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "l\u2019assunto \u201c"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "nostri clienti, con le Comunit\u00e0 e i territori in cui siamo presenti "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "una "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "testa"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "relazione"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "un"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "forte"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "voto\u201d, proprio"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "e sana, che fa parte"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " del "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "modello"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "nostro"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "economico"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "essere"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "e"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "da"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "organizzativo"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "sempre \u201cpersone oltre"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "della"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "le"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "cooperazione. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cose\u201d. "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Scopri di pi\u00f9"
+                }
+              ],
+              "dissimilarity_score": 0.8
+            }
+          ],
+          "similarity_score": 0.19999999999999996
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 4,
+      "source": "Accordion",
+      "target": "Accordion (accordion4)",
+      "key": "accordion4",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+          "urlHash": "4fa1db841ee6d28f99b0133a50392b0ae24f556a",
+          "uuid": "4fa1db84-02-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 5,
+      "source": "Hero",
+      "target": "Hero (hero5)",
+      "key": "hero5",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-13-1e2374de61afbf3664ff169827f071c11e8a9803",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[13]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-12-232683fe2011119a7ad63750227e840bbcbe5d62",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[12]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+          "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+          "uuid": "ac6ac2b8-08-4207a4d0463bfbe567a291be19584dd1220e50fc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+          "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+          "uuid": "15a7de15-01-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-04-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-04-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-06-4207a4d0463bfbe567a291be19584dd1220e50fc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-08-8ad5a7c46ba450d7f24f0ab31b014ddc7bfaeb46",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-04-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-06-4207a4d0463bfbe567a291be19584dd1220e50fc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-03-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/60-anni-insieme",
+          "urlHash": "868ad3703dbabbd971c2a7f794851a98c4b8e727",
+          "uuid": "868ad370-04-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/codice-etico",
+          "urlHash": "9ab6fe88cbf45a982a82ec7652f38ac43ffe0c7f",
+          "uuid": "9ab6fe88-01-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-01-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-03-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-06-3899aebbddf22d13a9ef7c5133c8324ae48b95ef",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-08-806fa17d74ae36b38b8bbb8ac1b0a2248836c329",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[9]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-12-1e2374de61afbf3664ff169827f071c11e8a9803",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[13]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns",
+      "target": "Columns (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/press-area",
+          "urlHash": "d57517d4aa6f9db5cf7485dc1db5d8c72ae7b615",
+          "uuid": "d57517d4-02-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages8)",
+      "key": "cardsNoImages8",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-08-8ad5a7c46ba450d7f24f0ab31b014ddc7bfaeb46",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[8]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/i-soci",
+          "urlHash": "c53188b1f8d304ec8e8a05e7cd038105092f3e66",
+          "uuid": "c53188b1-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 9,
+      "source": "Cards",
+      "target": "Cards (cards9)",
+      "key": "cards9",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-03-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+          "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+          "uuid": "ac6ac2b8-05-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 10,
+      "source": "Header",
+      "target": "Header (header10)",
+      "key": "header10",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+          "urlHash": "4fa1db841ee6d28f99b0133a50392b0ae24f556a",
+          "uuid": "4fa1db84-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/lavora-con-noi",
+          "urlHash": "72e8b60340a05ea657eabc68f5567266694a06b2",
+          "uuid": "72e8b603-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/fondazione-conad-ets",
+          "urlHash": "74ce54ec1052813c61e1f348a46ef570e4be398a",
+          "uuid": "74ce54ec-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+          "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+          "uuid": "9aaa7496-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+          "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+          "uuid": "ac6ac2b8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo",
+          "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+          "uuid": "b105fd3f-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/i-soci",
+          "urlHash": "c53188b1f8d304ec8e8a05e7cd038105092f3e66",
+          "uuid": "c53188b1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 11,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages11)",
+      "key": "cardsNoImages11",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/press-area",
+          "urlHash": "d57517d4aa6f9db5cf7485dc1db5d8c72ae7b615",
+          "uuid": "d57517d4-01-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 12,
+      "source": "Cards",
+      "target": "Cards (cards12)",
+      "key": "cards12",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-02-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-04-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-02-d7c902255e2f168046982fae47e0878e73cc70dc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-05-49ad0e455209d9911d36ccf34fd0a3f9b6c07122",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+          "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+          "uuid": "ac6ac2b8-02-d7c902255e2f168046982fae47e0878e73cc70dc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 14,
+      "source": "Cards",
+      "target": "Cards (cards14)",
+      "key": "cards14",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-03-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-03-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 15,
+      "source": "Header",
+      "target": "Header (header15)",
+      "key": "header15",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 16,
+      "source": "Columns",
+      "target": "Columns (columns16)",
+      "key": "columns16",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+          "urlHash": "4fa1db841ee6d28f99b0133a50392b0ae24f556a",
+          "uuid": "4fa1db84-03-efd863df82a4e1728115d11bdbc46f74ffd0c418",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+          "urlHash": "4fa1db841ee6d28f99b0133a50392b0ae24f556a",
+          "uuid": "4fa1db84-04-89d9740b0aadeaeab45f19d150a7962084f97fbc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+          "urlHash": "4fa1db841ee6d28f99b0133a50392b0ae24f556a",
+          "uuid": "4fa1db84-05-3b200f622e4c9e613fba4da00c5506496dd3d1bb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 17,
+      "source": "Cards",
+      "target": "Cards (cards17)",
+      "key": "cards17",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-06-4207a4d0463bfbe567a291be19584dd1220e50fc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 18,
+      "source": "Columns",
+      "target": "Columns (columns18)",
+      "key": "columns18",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-09-806fa17d74ae36b38b8bbb8ac1b0a2248836c329",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[9]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-07-3899aebbddf22d13a9ef7c5133c8324ae48b95ef",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/60-anni-insieme",
+          "urlHash": "868ad3703dbabbd971c2a7f794851a98c4b8e727",
+          "uuid": "868ad370-02-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/60-anni-insieme",
+          "urlHash": "868ad3703dbabbd971c2a7f794851a98c4b8e727",
+          "uuid": "868ad370-03-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-10-1b932a3d5854e88c1e31c00f1f32d413d91824c5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[11]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-05-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-07-4207a4d0463bfbe567a291be19584dd1220e50fc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-09-8ad5a7c46ba450d7f24f0ab31b014ddc7bfaeb46",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[8]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 19,
+      "source": "Header",
+      "target": "Header (header19)",
+      "key": "header19",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 20,
+      "source": "Embed",
+      "target": "Embed (embedVideo20)",
+      "key": "embedVideo20",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-06-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-08-3899aebbddf22d13a9ef7c5133c8324ae48b95ef",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-10-806fa17d74ae36b38b8bbb8ac1b0a2248836c329",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[9]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 21,
+      "source": "Hero",
+      "target": "Hero (hero21)",
+      "key": "hero21",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-04-26ad32528f1abafeaf6f30afc1b6bdac2ea0f2c4",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[3]/div[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+          "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+          "uuid": "ac6ac2b8-01-1f262d31d7342b6c52344d74f16cd93d397a490e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 22,
+      "source": "Cards",
+      "target": "Cards (cards22)",
+      "key": "cards22",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-12-232683fe2011119a7ad63750227e840bbcbe5d62",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[12]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns",
+      "target": "Columns (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-09-ab452c89a35f4969ffb221ec8b6ecca0b0d6d107",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[10]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 24,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages24)",
+      "key": "cardsNoImages24",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-09-e988c840c0cb12c086abb2a3fd1cb74262752b05",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti",
+          "urlHash": "3fc8e426f9b5a3cab92f0f1fd9efbf3333be6ecb",
+          "uuid": "3fc8e426-03-118cdbd9894e1cb3df55c742046a642cf3767e05",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 25,
+      "source": "Hero",
+      "target": "Hero (hero25)",
+      "key": "hero25",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/fondazione-conad-ets",
+          "urlHash": "74ce54ec1052813c61e1f348a46ef570e4be398a",
+          "uuid": "74ce54ec-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 26,
+      "source": "Columns",
+      "target": "Columns (columns26)",
+      "key": "columns26",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-03-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "source": "Hero",
+      "target": "Hero (hero27)",
+      "key": "hero27",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 28,
+      "source": "Columns",
+      "target": "Columns (columns28)",
+      "key": "columns28",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cookies",
+          "urlHash": "08118ef0e3045052a28255cb4852691576659ce8",
+          "uuid": "08118ef0-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+          "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+          "uuid": "15a7de15-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative",
+          "urlHash": "1812bf53caaa4fad34e1009dcabd82655a78c6bf",
+          "uuid": "1812bf53-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+          "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+          "uuid": "2dcaa1a8-14-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/presidente",
+          "urlHash": "324c1c890019e34ab82d859f51f45ad0eaead40f",
+          "uuid": "324c1c89-03-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/conad-nord-ovest--solidita--crescita-e-visione-per-il-futuro",
+          "urlHash": "3ad66c6da3660d813a2b14806da3fd65f7ff1c1d",
+          "uuid": "3ad66c6d-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti",
+          "urlHash": "3fc8e426f9b5a3cab92f0f1fd9efbf3333be6ecb",
+          "uuid": "3fc8e426-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+          "urlHash": "4fa1db841ee6d28f99b0133a50392b0ae24f556a",
+          "uuid": "4fa1db84-06-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-14-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-13-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-11-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/lavora-con-noi",
+          "urlHash": "72e8b60340a05ea657eabc68f5567266694a06b2",
+          "uuid": "72e8b603-03-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/fondazione-conad-ets",
+          "urlHash": "74ce54ec1052813c61e1f348a46ef570e4be398a",
+          "uuid": "74ce54ec-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/60-anni-insieme",
+          "urlHash": "868ad3703dbabbd971c2a7f794851a98c4b8e727",
+          "uuid": "868ad370-06-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+          "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+          "uuid": "9aaa7496-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/codice-etico",
+          "urlHash": "9ab6fe88cbf45a982a82ec7652f38ac43ffe0c7f",
+          "uuid": "9ab6fe88-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-16-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+          "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+          "uuid": "ac6ac2b8-09-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo",
+          "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+          "uuid": "b105fd3f-12-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+          "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+          "uuid": "b13612a8-11-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/annunciati-10-finalisti-conad-jazz-contest-2025",
+          "urlHash": "b2b1fc7094907bc1687c4078f5d7adcbc9a46079",
+          "uuid": "b2b1fc70-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/direttore-generale-operativo",
+          "urlHash": "bbe38e61ea4a170dfb3a1bd19e3a2b4f3e81e2fb",
+          "uuid": "bbe38e61-03-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/contatti",
+          "urlHash": "bd6244240777fb2f928c199201e61c5fb4dd1ef9",
+          "uuid": "bd624424-01-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/annual-report",
+          "urlHash": "c28ade17361f60e88fd2aab6ac11dc139d0948a7",
+          "uuid": "c28ade17-03-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://chisiamo.conad.it/press-area",
+          "urlHash": "d57517d4aa6f9db5cf7485dc1db5d8c72ae7b615",
+          "uuid": "d57517d4-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 29,
+      "source": "Columns",
+      "target": "Columns (columns29)",
+      "key": "columns29",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-04-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 30,
+      "source": "Columns",
+      "target": "Columns (columns30)",
+      "key": "columns30",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cooperative",
+          "urlHash": "1812bf53caaa4fad34e1009dcabd82655a78c6bf",
+          "uuid": "1812bf53-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 31,
+      "source": "Hero",
+      "target": "Hero (hero31)",
+      "key": "hero31",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo",
+          "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+          "uuid": "b105fd3f-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__main__section",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Chi Siamo"
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 32,
+      "source": "Cards",
+      "target": "Cards (cards32)",
+      "key": "cards32",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-07-8ad5a7c46ba450d7f24f0ab31b014ddc7bfaeb46",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[8]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 33,
+      "source": "Carousel",
+      "target": "Carousel (carousel33)",
+      "key": "carousel33",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-01-1f262d31d7342b6c52344d74f16cd93d397a490e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 34,
+      "source": "Cards",
+      "target": "Cards (cards34)",
+      "key": "cards34",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti",
+          "urlHash": "3fc8e426f9b5a3cab92f0f1fd9efbf3333be6ecb",
+          "uuid": "3fc8e426-01-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 35,
+      "source": "Cards",
+      "target": "Cards (cards35)",
+      "key": "cards35",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/press-area",
+          "urlHash": "d57517d4aa6f9db5cf7485dc1db5d8c72ae7b615",
+          "uuid": "d57517d4-03-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 36,
+      "source": "Header",
+      "target": "Header (header36)",
+      "key": "header36",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cookies",
+          "urlHash": "08118ef0e3045052a28255cb4852691576659ce8",
+          "uuid": "08118ef0-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+          "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+          "uuid": "15a7de15-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/cooperative",
+          "urlHash": "1812bf53caaa4fad34e1009dcabd82655a78c6bf",
+          "uuid": "1812bf53-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/presidente",
+          "urlHash": "324c1c890019e34ab82d859f51f45ad0eaead40f",
+          "uuid": "324c1c89-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/conad-nord-ovest--solidita--crescita-e-visione-per-il-futuro",
+          "urlHash": "3ad66c6da3660d813a2b14806da3fd65f7ff1c1d",
+          "uuid": "3ad66c6d-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti",
+          "urlHash": "3fc8e426f9b5a3cab92f0f1fd9efbf3333be6ecb",
+          "uuid": "3fc8e426-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/60-anni-insieme",
+          "urlHash": "868ad3703dbabbd971c2a7f794851a98c4b8e727",
+          "uuid": "868ad370-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/codice-etico",
+          "urlHash": "9ab6fe88cbf45a982a82ec7652f38ac43ffe0c7f",
+          "uuid": "9ab6fe88-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/annunciati-10-finalisti-conad-jazz-contest-2025",
+          "urlHash": "b2b1fc7094907bc1687c4078f5d7adcbc9a46079",
+          "uuid": "b2b1fc70-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/direttore-generale-operativo",
+          "urlHash": "bbe38e61ea4a170dfb3a1bd19e3a2b4f3e81e2fb",
+          "uuid": "bbe38e61-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/contatti",
+          "urlHash": "bd6244240777fb2f928c199201e61c5fb4dd1ef9",
+          "uuid": "bd624424-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/annual-report",
+          "urlHash": "c28ade17361f60e88fd2aab6ac11dc139d0948a7",
+          "uuid": "c28ade17-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/press-area",
+          "urlHash": "d57517d4aa6f9db5cf7485dc1db5d8c72ae7b615",
+          "uuid": "d57517d4-00-b46a7251a4e52c040197163b9edb09be0fb7c185",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 37,
+      "source": "Cards",
+      "target": "Cards (cards37)",
+      "key": "cards37",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/annual-report",
+          "urlHash": "c28ade17361f60e88fd2aab6ac11dc139d0948a7",
+          "uuid": "c28ade17-01-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 38,
+      "source": "Cards",
+      "target": "Cards (cards38)",
+      "key": "cards38",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/",
+          "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+          "uuid": "1ff7d2e2-07-ba718f6d4be12389100eba62ef149b10d065e4ae",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 39,
+      "source": "Cards",
+      "target": "Cards (cards39)",
+      "key": "cards39",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/presidente",
+          "urlHash": "324c1c890019e34ab82d859f51f45ad0eaead40f",
+          "uuid": "324c1c89-02-bdfad4d7c73eb7f21c4b098d24caa213e2b7eb92",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/direttore-generale-operativo",
+          "urlHash": "bbe38e61ea4a170dfb3a1bd19e3a2b4f3e81e2fb",
+          "uuid": "bbe38e61-02-bdfad4d7c73eb7f21c4b098d24caa213e2b7eb92",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 40,
+      "source": "Columns",
+      "target": "Columns (columns40)",
+      "key": "columns40",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-02-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+        },
+        {
+          "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+          "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+          "uuid": "a54a26cc-13-49f952eb1f49af1156ada616b50d69ff479f6786",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[14]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 41,
+      "source": "Columns",
+      "target": "Columns (columns41)",
+      "key": "columns41",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+          "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+          "uuid": "5c09dcb8-08-8ad5a7c46ba450d7f24f0ab31b014ddc7bfaeb46",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[8]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 42,
+      "source": "Columns",
+      "target": "Columns (columns42)",
+      "key": "columns42",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+          "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+          "uuid": "9aaa7496-02-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 43,
+      "source": "Columns",
+      "target": "Columns (columns43)",
+      "key": "columns43",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+          "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+          "uuid": "6142d693-05-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 44,
+      "source": "Cards",
+      "target": "Cards (cards44)",
+      "key": "cards44",
+      "instances": [
+        {
+          "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+          "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+          "uuid": "59f89a3f-13-1e2374de61afbf3664ff169827f071c11e8a9803",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[13]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://chisiamo.conad.it/cookies",
+      "urlHash": "08118ef0e3045052a28255cb4852691576659ce8",
+      "uuid": "08118ef0-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cookies",
+      "urlHash": "08118ef0e3045052a28255cb4852691576659ce8",
+      "uuid": "08118ef0-02-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cookies",
+      "urlHash": "08118ef0e3045052a28255cb4852691576659ce8",
+      "uuid": "08118ef0-03-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cookies",
+      "urlHash": "08118ef0e3045052a28255cb4852691576659ce8",
+      "uuid": "08118ef0-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+      "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+      "uuid": "15a7de15-02-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+      "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+      "uuid": "15a7de15-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse",
+      "urlHash": "15a7de157bb7492b7b31aa49a58ff1cb9c1eda07",
+      "uuid": "15a7de15-09-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cooperative",
+      "urlHash": "1812bf53caaa4fad34e1009dcabd82655a78c6bf",
+      "uuid": "1812bf53-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/",
+      "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+      "uuid": "1ff7d2e2-06-11ac1eaabf99155d610df7413c5b9d4e341110bd",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]/div[1]/div[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/",
+      "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+      "uuid": "1ff7d2e2-08-9757a31ec787ecfb16202b10ad0c898562315f61",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/",
+      "urlHash": "1ff7d2e2282c7068be5ed5e972fffef51a0c5303",
+      "uuid": "1ff7d2e2-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+      "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+      "uuid": "2dcaa1a8-02-ed64e9fefcb7fe4cbc6f39daa93974cb03420ae8",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+      "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+      "uuid": "2dcaa1a8-05-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati",
+      "urlHash": "2dcaa1a8a9335008889bb10143fca87f1d6875e1",
+      "uuid": "2dcaa1a8-15-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/presidente",
+      "urlHash": "324c1c890019e34ab82d859f51f45ad0eaead40f",
+      "uuid": "324c1c89-01-c1ebaa8c99336d51e54d3dbd18b14c735323c291",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/presidente",
+      "urlHash": "324c1c890019e34ab82d859f51f45ad0eaead40f",
+      "uuid": "324c1c89-04-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/conad-nord-ovest--solidita--crescita-e-visione-per-il-futuro",
+      "urlHash": "3ad66c6da3660d813a2b14806da3fd65f7ff1c1d",
+      "uuid": "3ad66c6d-01-8e1d6b5df7e6176aae5a5edbb7e8689cb5a6c013",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/conad-nord-ovest--solidita--crescita-e-visione-per-il-futuro",
+      "urlHash": "3ad66c6da3660d813a2b14806da3fd65f7ff1c1d",
+      "uuid": "3ad66c6d-02-00a17fcde5c5de3fc91b48cfe04b9e09b79e2796",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/conad-nord-ovest--solidita--crescita-e-visione-per-il-futuro",
+      "urlHash": "3ad66c6da3660d813a2b14806da3fd65f7ff1c1d",
+      "uuid": "3ad66c6d-03-f4973069d7d61c8f54b889fe3fd1a5bfb0f20157",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/conad-nord-ovest--solidita--crescita-e-visione-per-il-futuro",
+      "urlHash": "3ad66c6da3660d813a2b14806da3fd65f7ff1c1d",
+      "uuid": "3ad66c6d-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti",
+      "urlHash": "3fc8e426f9b5a3cab92f0f1fd9efbf3333be6ecb",
+      "uuid": "3fc8e426-02-bbadbac3a2a19aa613d6c85b16229ffc4f9c6b11",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti",
+      "urlHash": "3fc8e426f9b5a3cab92f0f1fd9efbf3333be6ecb",
+      "uuid": "3fc8e426-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+      "urlHash": "4fa1db841ee6d28f99b0133a50392b0ae24f556a",
+      "uuid": "4fa1db84-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne",
+      "urlHash": "4fa1db841ee6d28f99b0133a50392b0ae24f556a",
+      "uuid": "4fa1db84-07-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+      "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+      "uuid": "59f89a3f-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+      "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+      "uuid": "59f89a3f-05-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+      "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+      "uuid": "59f89a3f-07-3899aebbddf22d13a9ef7c5133c8324ae48b95ef",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+      "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+      "uuid": "59f89a3f-10-ab452c89a35f4969ffb221ec8b6ecca0b0d6d107",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[10]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+      "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+      "uuid": "59f89a3f-12-232683fe2011119a7ad63750227e840bbcbe5d62",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[12]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/persone-e-comunita/persone",
+      "urlHash": "59f89a3f2500c368c671066de1e8762f074d6cbe",
+      "uuid": "59f89a3f-15-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+      "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+      "uuid": "5c09dcb8-05-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/dettaglianti-alimentari-organizzati",
+      "urlHash": "5c09dcb8292ef2515c3bc11af8be2d25ebdbee7b",
+      "uuid": "5c09dcb8-14-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+      "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+      "uuid": "6142d693-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+      "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+      "uuid": "6142d693-09-6bbbfc33829a10a2fa4201fad4054a8f84ba4d06",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[9]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro/ambiente-e-risorse/logistica",
+      "urlHash": "6142d693ffe9f51321e118f8db076ded7c10c887",
+      "uuid": "6142d693-12-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/lavora-con-noi",
+      "urlHash": "72e8b60340a05ea657eabc68f5567266694a06b2",
+      "uuid": "72e8b603-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/lavora-con-noi",
+      "urlHash": "72e8b60340a05ea657eabc68f5567266694a06b2",
+      "uuid": "72e8b603-04-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/fondazione-conad-ets",
+      "urlHash": "74ce54ec1052813c61e1f348a46ef570e4be398a",
+      "uuid": "74ce54ec-02-e386e3f3ccd604491f9ea0391d0b44abc18d615a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/fondazione-conad-ets",
+      "urlHash": "74ce54ec1052813c61e1f348a46ef570e4be398a",
+      "uuid": "74ce54ec-03-65c14b27dfbc66345dd867e94b4978a0f96ec88d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[2]/div[1]/p[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/fondazione-conad-ets",
+      "urlHash": "74ce54ec1052813c61e1f348a46ef570e4be398a",
+      "uuid": "74ce54ec-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/60-anni-insieme",
+      "urlHash": "868ad3703dbabbd971c2a7f794851a98c4b8e727",
+      "uuid": "868ad370-01-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/60-anni-insieme",
+      "urlHash": "868ad3703dbabbd971c2a7f794851a98c4b8e727",
+      "uuid": "868ad370-07-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+      "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+      "uuid": "9aaa7496-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+      "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+      "uuid": "9aaa7496-03-efd863df82a4e1728115d11bdbc46f74ffd0c418",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+      "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+      "uuid": "9aaa7496-04-89d9740b0aadeaeab45f19d150a7962084f97fbc",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+      "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+      "uuid": "9aaa7496-05-2d05f3a76cb4ed0925a27204fde647664613cc60",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[1]/div[3]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+      "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+      "uuid": "9aaa7496-06-20d6212f1ae67d565e5600c8ce9ac5252d2a4e4f",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/div[1]/div[3]/div[1]/a[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie",
+      "urlHash": "9aaa74960627624ea3848885ed6df5b3f0130227",
+      "uuid": "9aaa7496-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/codice-etico",
+      "urlHash": "9ab6fe88cbf45a982a82ec7652f38ac43ffe0c7f",
+      "uuid": "9ab6fe88-02-4e6dc2561131b22e4cfda88c2a276064faa083a3",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/codice-etico",
+      "urlHash": "9ab6fe88cbf45a982a82ec7652f38ac43ffe0c7f",
+      "uuid": "9ab6fe88-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+      "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+      "uuid": "a54a26cc-05-4207a4d0463bfbe567a291be19584dd1220e50fc",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+      "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+      "uuid": "a54a26cc-11-232683fe2011119a7ad63750227e840bbcbe5d62",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[12]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+      "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+      "uuid": "a54a26cc-14-c81df867e9c32622b187ad25f117b202f3cfa724",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[15]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/negozi-e-prodotti",
+      "urlHash": "a54a26cc8dc38e425d17195c3e630170435a5c3f",
+      "uuid": "a54a26cc-17-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+      "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+      "uuid": "ac6ac2b8-03-e386e3f3ccd604491f9ea0391d0b44abc18d615a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+      "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+      "uuid": "ac6ac2b8-04-65c14b27dfbc66345dd867e94b4978a0f96ec88d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[2]/div[1]/p[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+      "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+      "uuid": "ac6ac2b8-06-ffa282119f752079ecb5e25446de6a1864437b04",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+      "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+      "uuid": "ac6ac2b8-10-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/sosteniamo-il-futuro",
+      "urlHash": "ac6ac2b86c826758abf4009aec47cbfd37a456cd",
+      "uuid": "ac6ac2b8-11-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo",
+      "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+      "uuid": "b105fd3f-02-c1686b850a90fed8e3692cd8dc831662802222b4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo",
+      "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+      "uuid": "b105fd3f-03-65c14b27dfbc66345dd867e94b4978a0f96ec88d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[2]/div[1]/p[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo",
+      "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+      "uuid": "b105fd3f-04-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo",
+      "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+      "uuid": "b105fd3f-05-ffa282119f752079ecb5e25446de6a1864437b04",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo",
+      "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+      "uuid": "b105fd3f-06-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo",
+      "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+      "uuid": "b105fd3f-10-6bbbfc33829a10a2fa4201fad4054a8f84ba4d06",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[9]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo",
+      "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+      "uuid": "b105fd3f-13-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo",
+      "urlHash": "b105fd3f3f2d0fd23f191ae69288f8d879ec2a15",
+      "uuid": "b105fd3f-14-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+      "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+      "uuid": "b13612a8-02-c1686b850a90fed8e3692cd8dc831662802222b4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+      "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+      "uuid": "b13612a8-03-1f229668120d2e0e1d2186c17d3af21c29e06b5b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/div[2]/div[1]/p[1]/span[1]/b[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+      "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+      "uuid": "b13612a8-04-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/campagne/2025/1/conad-campagna-comunicazione-2025",
+      "urlHash": "b13612a85f6bccfc4475a647088a4d2526790152",
+      "uuid": "b13612a8-12-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/annunciati-10-finalisti-conad-jazz-contest-2025",
+      "urlHash": "b2b1fc7094907bc1687c4078f5d7adcbc9a46079",
+      "uuid": "b2b1fc70-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/news-e-approfondimenti/notizie/2025/6/annunciati-10-finalisti-conad-jazz-contest-2025",
+      "urlHash": "b2b1fc7094907bc1687c4078f5d7adcbc9a46079",
+      "uuid": "b2b1fc70-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/direttore-generale-operativo",
+      "urlHash": "bbe38e61ea4a170dfb3a1bd19e3a2b4f3e81e2fb",
+      "uuid": "bbe38e61-01-c1ebaa8c99336d51e54d3dbd18b14c735323c291",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/modello-organizzativo/direttore-generale-operativo",
+      "urlHash": "bbe38e61ea4a170dfb3a1bd19e3a2b4f3e81e2fb",
+      "uuid": "bbe38e61-04-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/contatti",
+      "urlHash": "bd6244240777fb2f928c199201e61c5fb4dd1ef9",
+      "uuid": "bd624424-02-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/annual-report",
+      "urlHash": "c28ade17361f60e88fd2aab6ac11dc139d0948a7",
+      "uuid": "c28ade17-02-07e0767bc523c83b4a6b7696c0e7c4104ff0ad6b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/annual-report",
+      "urlHash": "c28ade17361f60e88fd2aab6ac11dc139d0948a7",
+      "uuid": "c28ade17-04-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo/annual-report",
+      "urlHash": "c28ade17361f60e88fd2aab6ac11dc139d0948a7",
+      "uuid": "c28ade17-05-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/i-soci",
+      "urlHash": "c53188b1f8d304ec8e8a05e7cd038105092f3e66",
+      "uuid": "c53188b1-02-2760a05a6d553ca5e865d1ef4ce37259d4618fda",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/p[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/i-soci",
+      "urlHash": "c53188b1f8d304ec8e8a05e7cd038105092f3e66",
+      "uuid": "c53188b1-03-bb0571685c507d64931799b8c289b93831f36d04",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/p[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://chisiamo.conad.it/cooperative/commercianti-indipendenti-associati/i-soci",
+      "urlHash": "c53188b1f8d304ec8e8a05e7cd038105092f3e66",
+      "uuid": "c53188b1-04-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://chisiamo.conad.it/press-area",
+      "urlHash": "d57517d4aa6f9db5cf7485dc1db5d8c72ae7b615",
+      "uuid": "d57517d4-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]",
+      "section": "section-2"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://chisiamo.conad.it/chi-siamo",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Chi Siamo Consorzio Nazionale Dettaglianti Noi di Conad \u2013 acronimo di Consorzio Nazionale Dettaglianti \u2013 siamo la pi\u00f9 ampia organizzazione di imprenditori indipendenti del commercio al dettaglio presente in Italia e dal 2019 siamo la prima catena della grande distribuzione organizzata. Come insegna leader della distribuzione nel nostro Paese, abbiamo saputo conquistare le famiglie italiane offrendo qualit\u00e0, convenienza e un modello originale di fare impresa e fare la spesa. Un modello che ha al centro le persone: i Soci, i Clienti, la Comunit\u00e0. Il nostro Consorzio riunisce 5 Cooperative principali, che complessivamente associano 2.176 dettaglianti, dando vita a un modello distributivo che non trova eguali nel panorama della grande distribuzione italiana: un sistema costruito sulla figura del commerciante-cooperatore, imprenditore del commercio associato in cooperativa. La nostra storia Siamo nati nel 1962, a Bologna, come societ\u00e0 cooperativa a responsabilit\u00e0 limitata di dettaglianti che volevano organizzare insieme i rifornimenti e gli acquisti di prodotti alimentari, bevande e beni di consumo. Scopri di pi\u00f9 Insieme si \u00e8 pi\u00f9 forti. Per questo una Comunit\u00e0 \u00e8 pi\u00f9 grande di un supermercato. 60 anni insieme Noi di Conad abbiamo celebrato il 60\u00b0 anniversario affermando e consolidando la nostra leadership. Un importante traguardo raggiunto grazie alle nostre persone e le Comunit\u00e0. Siamo cresciuti giorno dopo giorno senza perdere la nostra identit\u00e0 costruendo con i nostri clienti, con le Comunit\u00e0 e i territori in cui siamo presenti una relazione forte e sana, che fa parte del nostro essere da sempre \u201cpersone oltre le cose\u201d. Scopri di pi\u00f9 Missione e valori Il Sistema Conad, da sempre, \u00e8 guidato da una visione ambiziosa: essere un\u2019organizzazione di imprenditori dettaglianti indipendenti che soddisfa al meglio le aspettative dei clienti e che ha un primario ruolo economico e sociale nelle Comunit\u00e0 in cui opera. Scopri di pi\u00f9 Modello organizzativo La nostra peculiarit\u00e0 \u00e8 che in Conad i Soci sono imprenditori che hanno scelto di cooperare, cio\u00e8 di inserirsi in un sistema corale che offre loro la possibilit\u00e0 di esprimersi individualmente attraverso l\u2019assunto \u201cuna testa un voto\u201d, proprio del modello economico e organizzativo della cooperazione. Scopri di pi\u00f9 Approfondisci Negozi e Prodotti Approfondisci Annual Report Approfondisci "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Annual"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Insegna leader nella distribuzione italiana Ad oggi, Conad \u00e8 la pi\u00f9 ampia organizzazione di imprenditori indipendenti del commercio al dettaglio presente in Italia, grazie a un modello originale d\u2019impresa e fare la spesa che pone al centro le persone: i soci, i clienti, la comunit\u00e0. Approfondisci CONAD SOC. COOP. Via Michelino, 59 | 40127 BOLOGNA Codice Fiscale e Registro Imprese di Bologna 00865960157 PARTITA IVA 03320960374 CONAD SOC. COOP. Visita Conad.it Quicklinks Lavora con noi Press Area Contatti Social Media Facebook Linkedin YouTube Twitter Copyright @ Conad 2023 Privacy Cookie Impostazioni dei Cookie Accessibilit\u00e0 Usa i cookies per una navigazione migliore! I cookie ti offrono una migliore esperienza di navigazione sul nostro sito e ci permettono di suggerirti contenuti interessanti per te. Quelli di natura tecnica sono indispensabili per permettere il corretto funzionamento del sito. Solo previo tuo consenso, useremo anche ulteriori tipologie di cookie, anche di terze parti, analitici per raccogliere informazioni aggregate sui tuoi comportamenti di navigazione, o di profilazione per personalizzare i contenuti da te visualizzati. Per maggiori informazioni su queste tecnologie, leggi la nostra Cookie Policy . Per ogni ulteriore dettaglio su come trattiamo i tuoi dati, consulta anche la nostra Privacy Policy . Puoi accettare l\u2019installazione di tutti i cookie cliccando sul pulsante ACCETTA TUTTI I COOKIE, oppure scegliere le singole tipologie che vuoi installare, cliccando su SELEZIONA I COOKIES . Se invece intendi rifiutarne l\u2019installazione, puoi farlo cliccando sul pulsante RIFIUTA TUTTI I COOKIE. Cookie Policy RIFIUTA TUTTI I COOKIE ACCETTA TUTTI I COOKIE SELEZIONA I COOKIES Impostazioni Dei Cookie Qualsiasi sito web da te visitato pu\u00f2 memorizzare o recuperare informazioni sul tuo browser, in gran parte sotto forma di cookies. Queste informazioni possono riguardare te, le tue preferenze o il tuo dispositivo e sono utilizzate principalmente per far funzionare adeguatamente il sito, secondo le tue aspettative. In linea con quanto previsto dalla vigente normativa in materia di protezione dei dati personali, puoi scegliere di non consentire l\u2019installazione di alcune specifiche tipologie di cookie. Clicca su ciascuna delle diverse categorie per conoscerne le caratteristiche e modificare le impostazioni predefinite, tenendo presente che il blocco"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Report"
+        },
+        {
+          "change_type": "insertion",
+          "text": "di"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "2024"
+        },
+        {
+          "change_type": "insertion",
+          "text": "alcune"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Scopri"
+        },
+        {
+          "change_type": "insertion",
+          "text": "tipologie"
+        },
+        {
+          "change_type": "equal",
+          "text": " di "
+        },
+        {
+          "change_type": "deletion",
+          "text": "pi\u00f9"
+        },
+        {
+          "change_type": "insertion",
+          "text": "cookies pu\u00f2 rallentare la tua navigazione e l\u2019accesso ad alcuni dei servizi disponibili sul sito. Se preferisci, puoi effettuare le tue scelte anche per ciascuno dei singoli partner (terze parti) che installano i propri cookies sul nostro sito, cliccando sull\u2019apposito pulsante. Ulteriori informazioni Accetta tutti i Cookie Gestisci preferenze consenso Cookie tecnici Sempre attivi Questi cookie sono necessari per il corretto funzionamento del nostro sito e non possono essere disattivati. Vengono impostati solo in risposta ad azioni da te effettuate nel corso della navigazione, che costituiscono una richiesta di servizi ai sensi di legge, come la corretta visualizzazione del sito e dei suoi contenuti. Ti permetteranno di navigare sul sito in modo fluido e senza rallentamenti (es. consentendoti di mantenere l\u2019accesso ad aree riservate per tutto il tempo della tua permanenza sul sito), oltre che per fornire correttamente i servizi da te richiesti. \u00c8 possibile impostare il browser per bloccare i cookie tecnici o essere avvisati riguardo alla loro installazione, ma in tal caso alcune parti del sito non funzioneranno correttamente. Questi cookie non archiviano, di norma, dati personali. Dettagli dei cookie\u200e Cookie di funzionalit\u00e0 Sempre attivi Questi cookie sono finalizzati unicamente a migliorare e velocizzare la tua navigazione sul sito, attraverso la memorizzazione di molte delle scelte da te effettuate (come le preferenze relative alla lingua o alla fruizione di contenuti multimediali). Possono essere installati senza necessit\u00e0 di ottenere il tuo consenso e, per tale ragione, saranno trattati alla stregua di cookie tecnici. Precisiamo che, qualora la durata di uno di questi cookies dovesse superare quella di navigazione, ti potr\u00e0 essere chiesto di attivarlo mediante azione positiva, come la selezione di un \u201cflag\u201d, affinch\u00e9 la scelta possa essere memorizzata per una tua successiva visita del sito (es. la funzionalit\u00e0 che permette di ricordare le tue credenziali di accesso). Dettagli dei cookie\u200e Cookie analitici [ ] Cookie analitici I cookie analitici, che possono essere di prima o di terza parte (vale a dire nostri o installati per conto di altre societ\u00e0), sono installati per raccogliere informazioni sull\u2019uso del nostro sito da parte tua. In particolare, sono utili per permetterci di effettuare analisi statistiche sugli accessi o le visite al sito stesso e per consentirci di migliorarne la struttura, le logiche di navigazione e i contenuti. Nella maggior parte dei casi, i dati raccolti da questi cookie vengono aggregati e non ci consentono di identificarti. Per tale ragione, sono equiparati ai cookie tecnici. Talvolta, invece, se associati ad altre informazioni, quali le credenziali inserite per l\u2019accesso ad aree riservate, possono essere utilizzate per profilarti, con conseguente obbligo da parte nostra di ottenere il tuo consenso preliminarmente alla loro installazione. Dettagli dei cookie\u200e Annunci Pubblicitari Personalizzati [ ] Annunci Pubblicitari Personalizzati I cookie di profilazione, che possono essere di prima (nostri) o di terza parte (di altri), servono a tracciare i tuoi comportamenti di navigazione sui nostri siti e/o le nostre APP, analizzandoli per finalit\u00e0 di marketing e per la creazione di profili (cluster) in base ai tuoi gusti, abitudini, scelte e preferenze, anche incrociando le informazioni registrate sui diversi dispositivi che utilizzi (es. PC, smartphone, tablet) quando navighi sui nostri canali digitali. In questo modo potremo, ad esempio, mostrarti solo annunci pubblicitari mirati in relazione ai tuoi interessi ed in linea con le tue preferenze Dettagli dei cookie\u200e Elenco fornitori Ricerca... Clear [ ] checkbox label label Apply Cancel Consent Leg.Interest [ ] checkbox label label [ ] checkbox label label [ ] checkbox label label Rifiuta tutti i Cookie Salva le mie preferenze"
+        }
+      ],
+      "similarity_score": 0.6722091736557231
+    }
+  ]
+}
