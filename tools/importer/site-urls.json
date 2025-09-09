@@ -103,7 +103,7 @@
       "url": "https://www.conad.it/consigli/pulizie-casa",
       "source": "CRAWL",
       "targetPath": "/consigli/pulizie-casa",
-      "id": "6d33c3b323f4f74d13ab9de77eb71c65b559e087"
+      "id": "9dtS7zbZD2tK7oaMUj78MKvgUWHbRVLQ95bxnpsCaCLL087"
     },
     {
       "url": "https://www.conad.it/consigli/salute-e-benessere",
@@ -331,7 +331,7 @@
       "url": "https://www.conad.it/ricerca-negozi",
       "source": "CRAWL",
       "targetPath": "/ricerca-negozi",
-      "id": "43ae3d5286197bbf3e493e7dbc613dbdaa838af8"
+      "id": "98EWM95ct8tBYWroCxXYN9vCgN7NTcR6nUsvCx1mEdLZ"
     },
     {
       "url": "https://www.conad.it/ricerca-negozi/carburante",
@@ -391,7 +391,7 @@
       "url": "https://www.conad.it/ricette/aperitivi-stuzzichini",
       "source": "CRAWL",
       "targetPath": "/ricette/aperitivi-stuzzichini",
-      "id": "a61e897922e66b38e1917bad3a267cd888839c08"
+      "id": "3KFBge3yEg793VqVV1P6fxV7gC9CShh55zmoMcGUNu4908"
     },
     {
       "url": "https://www.conad.it/ricette/bimby",
@@ -409,13 +409,13 @@
       "url": "https://www.conad.it/ricette/contorni",
       "source": "CRAWL",
       "targetPath": "/ricette/contorni",
-      "id": "c7eebde797bf4227558eaf8ec4b35aae868b52b2"
+      "id": "3KFBge3yEg793VqVV1P6fxV7gC9CShh55zmoMcGUNu49"
     },
     {
       "url": "https://www.conad.it/ricette/dolci-e-dessert",
       "source": "CRAWL",
       "targetPath": "/ricette/dolci-e-dessert",
-      "id": "9871f57daaccf4ee668f91ae7fcdb2faef5f0509"
+      "id": "98EWM95ct8tBYWroCxXYN9vCgN7NTcR6nUsvCx1mEdLZ0509"
     },
     {
       "url": "https://www.conad.it/ricette/piacersi",
@@ -427,7 +427,7 @@
       "url": "https://www.conad.it/ricette/piatti-unici",
       "source": "CRAWL",
       "targetPath": "/ricette/piatti-unici",
-      "id": "c299c7e2cdf75b844c8e8b33e8c952c3860eb03f"
+      "id": "5j4k1Ye12dXiFMLSJpD7gFrLbv4QcUrRoKHsgo32kRFr0eb03f"
     },
     {
       "url": "https://www.conad.it/ricette/piatti-unici/bowl-con-quinoa-cubetti-di-tacchino-e-crema-di-fave",
@@ -445,7 +445,7 @@
       "url": "https://www.conad.it/ricette/piatti-unici/Torta-salata-con-ratatouille-di-verdure",
       "source": "CRAWL",
       "targetPath": "/ricette/piatti-unici/torta-salata-con-ratatouille-di-verdure",
-      "id": "fb57d733fad2741ac7d8e4b46f451e5ca19d8cdb"
+      "id": "55YtaEqYEUM7ASAZ9XmVdSBNy6F7r5zkdLsJFv2ZPtAx"
     },
     {
       "url": "https://www.conad.it/ricette/primi-piatti",
@@ -529,7 +529,7 @@
       "url": "https://www.conad.it/servizio-clienti-e-faq/carte-conad",
       "source": "CRAWL",
       "targetPath": "/servizio-clienti-e-faq/carte-conad",
-      "id": "861e949d8963bbfb98db48716d4a2f384af67bcc"
+      "id": "98EWM95ct8tBYWroCxXYN9vCgN7NTcR6nUsvCx1mEdLZ"
     },
     {
       "url": "https://www.conad.it/servizio-clienti-e-faq/negozi",
@@ -541,7 +541,7 @@
       "url": "https://www.conad.it/servizio-clienti-e-faq/premi-concorsi",
       "source": "CRAWL",
       "targetPath": "/servizio-clienti-e-faq/premi-concorsi",
-      "id": "6ad41c9efad625acab87a67af25caced5f6ef1e5"
+      "id": "7mdCoRPc1omTiZdYY2xG81EvGwN7Z2yodUTX9ZmLm3fx"
     },
     {
       "url": "https://www.conad.it/servizio-clienti-e-faq/prodotti-a-marchio",
